@@ -1,8 +1,5 @@
-[Vectors](./)  
-
-
-
 # Vectors
+
 
 ```js
 var x = 320;

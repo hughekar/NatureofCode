@@ -1,6 +1,3 @@
-[Vectors](./)
-
-
 # Vector Addition
 
 ```js

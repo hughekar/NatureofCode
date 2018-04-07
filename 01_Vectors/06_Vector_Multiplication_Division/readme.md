@@ -1,5 +1,3 @@
-[Introduction](.../) [Vectors](../)
-
 # Vector Multiplication Division
 
 

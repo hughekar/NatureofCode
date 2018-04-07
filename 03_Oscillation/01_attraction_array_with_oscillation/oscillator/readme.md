@@ -1,7 +1,4 @@
-[attraction array with oscillation](./)
-
 # Attraction Array with Oscillation - Oscillator
-
 
 ```js
 class Oscillator {

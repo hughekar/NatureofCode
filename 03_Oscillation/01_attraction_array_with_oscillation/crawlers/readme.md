@@ -1,7 +1,4 @@
-[attraction array with oscillation](./)
-
 # Attraction Array with Oscillation - Crawlers
-
 
 ```js
 class Crawler {

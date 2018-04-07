@@ -1,5 +1,3 @@
-[Vectors](./)
-
 # Vectors
 
 

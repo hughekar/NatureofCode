@@ -1,7 +1,4 @@
-[attraction array with oscillation](./)
-
 # Attraction Array with Oscillation - Attractor
-
 
 ```js
 // A class for a draggable attractive body in our world

@@ -1,6 +1,3 @@
-[Introduction](.../)  [Vectors](../)
-
-
 # Vector Subtraction
 
 ```js

@@ -1,4 +1,4 @@
-[Forces with Arbitrary](./)
+[Forces with Arbitrary](../)
 
 # Forces with Arbitrary - Attractor
 

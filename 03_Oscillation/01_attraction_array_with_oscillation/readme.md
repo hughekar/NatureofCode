@@ -1,9 +1,8 @@
-[Oscillation](.../)
+[Oscillation](03_Oscillation/)
 
-1. [Attractor](attractor/)
-2. [Rotate a Baton](rotate_a_baton/)
-
-
+1. [attractor.js](attractor/)
+2. [crawlers.js](crawlers/)
+3. [oscillation.js](oscillator/)
 
 # Attraction Array with Oscillation
 In this sketch we are using two other sketch's an attractor.js and crawlers.js but first will talk about our main sketch.  We are setting up are crawlers

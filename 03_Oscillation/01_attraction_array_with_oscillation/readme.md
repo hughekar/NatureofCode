@@ -1,4 +1,4 @@
-[Oscillation](../)
+[Oscillation](./)
 
 1. [attractor.js](attractor/)
 2. [crawlers.js](crawlers/)

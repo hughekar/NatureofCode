@@ -13,7 +13,7 @@ The below section is what we will be explained in relation to Oscillation.
 1. [Attraction Array with Oscillation](01_attraction_array_with_oscillation/)
 2. [Rotate a Baton](02_rotate_a_baton/)
 3. [Angular Motion](03_angular_motion/)
-4. [Forces with Arbitrary](04_Forces_with_Arbitrary/)
+4. [Forces with Arbitrary](04_Forces with Arbitrary/)
 5. [Cannon](05_Cannon/)
 6. [Pointing in Direction](06_pointing_in_direction/)
 7. [Towards the Mouse](07_towards_the_mouse/)

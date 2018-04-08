@@ -1,6 +1,6 @@
 # Mover Experiment
 
-1. [mover01.js](mover/)
+1. [mover.js](mover/)
 
 ```js
 var movers = [];

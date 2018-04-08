@@ -28,4 +28,4 @@ function draw() {
   mover.display();
 }
 ```
-<img src ="img/mover.gif"/>
+<img src ="img/force.gif"/>

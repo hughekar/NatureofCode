@@ -1,4 +1,4 @@
-# Liquid Experiment PArt 2 - mover.js
+# Liquid Experiment Part 2 - mover.js
 
 ```js
 var Mover = function (_x, _y, _vx, _vy, _ax, _ay, mass) {

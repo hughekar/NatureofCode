@@ -17,4 +17,5 @@ The setup of P5.js consists of setup() and draw() the setup is only called once 
 
 4. [The Coding Train](04_the_coding_train/)
 
-The coding train are tutorials done through YouTube https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+The coding train are tutorials done through YouTube
+https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw

@@ -1,5 +1,7 @@
 # Spring Multiple
 
+1. [bob](bob/)
+2. [spring](spring/)
 
 ```js
 // Bobs
@@ -24,9 +26,6 @@ function setup() {
   s3 = new Spring(b1, b3, 100);
 }
 ```
-
-
-
 ```js
 function draw() {
   background(200);
@@ -57,6 +56,4 @@ function mouseReleased() {
   b1.stopDragging();
 }
 ```
-
 <img src ="img/springmul.gif"/>
-[See the Code in action](index.html)

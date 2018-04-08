@@ -1,5 +1,7 @@
 # Towards the mouse
 
+1. [mover](mover/)
+
 ```js
 var movers = [];
 
@@ -22,6 +24,4 @@ function draw() {
   }
 }
 ```
-
 <img src ="img/moouse.gif"/>
-[See the Code in action](index.html)

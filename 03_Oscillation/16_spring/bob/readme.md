@@ -1,7 +1,5 @@
 # Spring - Bob
 
-
-
 ```js
 class Bob {
 
@@ -63,5 +61,4 @@ class Bob {
     }
   }
 }
-
 ```

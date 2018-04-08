@@ -19,8 +19,5 @@ function setup() {
   }
   endShape();
 }
-
 ```
-
 <img src ="img/wave.png"/>
-[See the Code in action](index.html)

@@ -1,6 +1,7 @@
 # Spring
 
-
+1. [bob](bob/)
+2. [spring](spring/)
 
 ```js
 // Mover object
@@ -56,7 +57,4 @@ function mouseReleased() {
   bob.stopDragging();
 }
 ```
-
-
 <img src ="img/spring.gif"/>
-[See the Code in action](index.html)

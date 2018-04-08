@@ -1,6 +1,5 @@
 # Towards the Mouse - Mover
 
-
 ```js
 var Mover = function () {
     this.position = createVector(random(width), random(height));

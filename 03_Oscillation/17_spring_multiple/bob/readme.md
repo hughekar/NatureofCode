@@ -1,7 +1,5 @@
 # Spring Multiple - bob.js
 
-
-
 ```js
 class Bob {
 

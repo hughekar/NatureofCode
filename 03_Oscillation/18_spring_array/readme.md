@@ -1,5 +1,7 @@
 # Spring Array
 
+1. [bob](bob/)
+2. [spring](spring/)
 
 ```js
 // Mover object
@@ -49,10 +51,4 @@ function mouseReleased() {
   }
 }
 ```
-
-
-
-
-
 <img src ="img/sprarray.gif"/>
-[See the Code in action](index.html)

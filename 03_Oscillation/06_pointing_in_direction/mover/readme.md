@@ -1,6 +1,5 @@
 # Pointing in Direction - Mover
 
-
 ```js
 class Mover {
   constructor() {

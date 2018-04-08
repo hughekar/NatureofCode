@@ -1,5 +1,7 @@
 # Oscillating Object
 
+1. [Oscillating](oscillating/)
+
 ```js
 // An array of objects
 var oscillators = [];
@@ -23,6 +25,4 @@ function draw() {
   }
 }
 ```
-
 <img src ="img/oscobj.gif"/>
-[See the Code in action](index.html)

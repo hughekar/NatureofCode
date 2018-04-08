@@ -1,5 +1,6 @@
 # Pendulum Simplified
 
+1. [Pendulum](pendulum/)
 
 ```js
 var p;
@@ -18,6 +19,4 @@ function draw() {
   p.go();
 }
 ```
-
 <img src ="img/pen.gif"/>
-[See the Code in action](index.html)

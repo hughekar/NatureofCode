@@ -38,5 +38,3 @@ function draw() {
 
 ```
 <img src ="img/baton.gif"/>
-
-[See the Code in action](index.html)

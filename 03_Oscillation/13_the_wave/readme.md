@@ -23,7 +23,9 @@ function setup() {
 
   yvalues = [];
 }
+```
 
+```js
 function draw() {
   background(51);
   calcWave();
@@ -62,4 +64,3 @@ function renderWave() {
 }
 ```
 <img src ="img/wave.gif"/>
-[See the Code in action](index.html)

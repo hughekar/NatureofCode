@@ -1,6 +1,5 @@
 # Spring Array - bob.js
 
-
 ```js
 class Bob {
 
@@ -62,5 +61,4 @@ class Bob {
     }
   }
 }
-
 ```

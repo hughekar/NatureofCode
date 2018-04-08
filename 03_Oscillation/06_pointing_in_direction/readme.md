@@ -1,5 +1,6 @@
 # Pointing in Direction
 
+1. [mover](mover/)
 
 ```js
 var mover;
@@ -9,7 +10,6 @@ function setup() {
   mover = new Mover();
 }
 ```
-
 
 ```js
 function draw() {
@@ -21,5 +21,3 @@ function draw() {
 
 ```
 <img src ="img/mouse.gif"/>
-
-[See the Code in action](index.html)

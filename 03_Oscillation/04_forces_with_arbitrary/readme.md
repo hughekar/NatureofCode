@@ -1,5 +1,7 @@
 # Forces with Arbitrary
 
+1. [mover](mover/)
+2. [attractor](attractor/)
 
 ```js
 var movers = [];
@@ -32,5 +34,3 @@ function draw() {
 
 ```
 <img src ="img/force.gif"/>
-
-[See the Code in action](index.html)

@@ -1,7 +1,5 @@
 # Spring
 
-
-
 ```js
 class Spring {
 
@@ -82,8 +80,4 @@ class Spring {
     line(b.position.x, b.position.y, this.anchor.x, this.anchor.y);
   }
 }
-
 ```
-
-<img src ="img/springmul.gif"/>
-[See the Code in action](index.html)

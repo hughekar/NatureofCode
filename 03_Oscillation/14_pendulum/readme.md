@@ -1,5 +1,7 @@
 # Pendulum
 
+1. [Pendulum](pemdulum/)
+
 ```js
 var p;
 
@@ -27,4 +29,3 @@ function mouseReleased() {
 
 ```
 <img src ="img/pendul.gif"/>
-[See the Code in action](index.html)

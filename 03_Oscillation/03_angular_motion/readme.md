@@ -1,4 +1,5 @@
 # Angular Motion
+
 What we are doing with in this sketch is having our baton moving faster and using angle to have it moving in two directions.
 The setting for the first part of the code is still the same as our code used in rotating a baton we are just reduced down the acceleration to 0.001.
 
@@ -32,5 +33,3 @@ function draw() {
 
 ```
 <img src ="img/motion.gif"/>
-
-[See the Code in action](index.html)

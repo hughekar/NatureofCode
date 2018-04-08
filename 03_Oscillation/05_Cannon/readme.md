@@ -1,6 +1,6 @@
 # Cannonball
 
-
+1. [Cannonball](cannonball/)
 
 ```js
 // All of this stuff should probably go into a Cannon class
@@ -16,7 +16,8 @@ function setup() {
   position = createVector(50, 300);
   ball = new CannonBall(position.x, position.y);
 }
-
+```
+```js
 function draw() {
   background(220);
 
@@ -58,5 +59,3 @@ function keyPressed() {
 
 ```
 <img src ="img/cannon.gif"/>
-
-[See the Code in action](index.html)

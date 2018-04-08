@@ -25,6 +25,4 @@ function draw() {
   ellipse(x, 0, 48, 48);
 }
 ```
-
 <img src ="img/harmonmot.gif"/>
-[See the Code in action](index.html)

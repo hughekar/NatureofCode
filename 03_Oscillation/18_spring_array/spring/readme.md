@@ -1,6 +1,5 @@
 # Spring Array - Spring
 
-
 ```js
 class Spring {
 
@@ -31,12 +30,10 @@ class Spring {
     this.b.applyForce(force);
   }
 
-
   display() {
     strokeWeight(2);
     stroke(0);
     line(this.a.position.x, this.a.position.y, this.b.position.x, this.b.position.y);
   }
 }
-
 ```

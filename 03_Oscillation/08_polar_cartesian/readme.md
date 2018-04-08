@@ -34,9 +34,5 @@ function draw() {
   // Increase the angle over time
   theta += 0.02;
 }
-
-
 ```
 <img src ="img/polar.gif"/>
-
-[See the Code in action](index.html)

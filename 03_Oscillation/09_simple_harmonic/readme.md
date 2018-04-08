@@ -24,4 +24,4 @@ function draw() {
   ellipse(x, 0, 48, 48);
 }
 ```
-<img src ="img/harmonic.gif"/>
+<img src ="img/harmon.gif"/>

@@ -24,4 +24,4 @@ function draw() {
   }
 }
 ```
-<img src ="img/moouse.gif"/>
+<img src ="img/mouse.gif"/>

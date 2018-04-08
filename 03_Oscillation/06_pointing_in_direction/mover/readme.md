@@ -1,5 +1,3 @@
-[pointing in direction](../)
-
 # Pointing in Direction - Mover
 
 

@@ -19,5 +19,6 @@ function draw() {
   mover.checkEdges();
   mover.display();
 }
+
 ```
 <img src ="img/vectors.gif"/>

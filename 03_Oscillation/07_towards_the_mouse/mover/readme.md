@@ -1,5 +1,3 @@
-[towards the mouse](./)
-
 # Towards the Mouse - Mover
 
 

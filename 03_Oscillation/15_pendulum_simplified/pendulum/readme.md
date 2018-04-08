@@ -1,5 +1,3 @@
-[pendulum](./)
-
 # Pendulum
 
 ```js

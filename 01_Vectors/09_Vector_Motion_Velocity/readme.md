@@ -1,8 +1,6 @@
 # Vector Motion Velocity
 
-
 1. [mover01.js](mover/)
-
 
 ```js
 var mover;

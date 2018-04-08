@@ -1,5 +1,3 @@
-[Oscillation](./)
-
 # Rotate a Baton
 With code below we are going to create a baton within a canvas, we are going to use angle and rotate the baton.  The baton is going to be moved with acceleration.
 
@@ -15,7 +13,7 @@ function setup() {
 }
 ```
 
-We are translating by the width and height and rotate the baton with angle, we then draw our line first and the two circle to make our baton. To move the baton we are adding acceleration to the velocity, if you do not add the constrain to the velocity the baton would be spinning so fast that it would look out of control so the constrain slow down our baton. 
+We are translating by the width and height and rotate the baton with angle, we then draw our line first and the two circle to make our baton. To move the baton we are adding acceleration to the velocity, if you do not add the constrain to the velocity the baton would be spinning so fast that it would look out of control so the constrain slow down our baton.
 
 ```js
 function draw() {

@@ -1,5 +1,3 @@
-[Oscillation](./)
-
 # Harmonic Motion
 
 ```js

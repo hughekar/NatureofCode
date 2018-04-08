@@ -1,12 +1,16 @@
-# Vector Motion Velocity - mover01.js
+# Vector Motion Acceleration - mover03.js
 
 ```js
 var Mover = function () {
 
-    this.location = createVector(random(width), random(height));
-    this.velocity = createVector(10, 5);
+    this.location = createVector(width / 2, height / 2);
+    this.velocity = createVector(0, 0);
+    this.acceleration = p5.Vector.random2D();
+    this.acceleration.mult(0.02);
 
     this.update = function () {
+        this.velocity.add(this.acceleration);
+        this.velocity.limit(10);
         this.location.add(this.velocity);
     }
 

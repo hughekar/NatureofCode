@@ -1,5 +1,3 @@
-[Oscillation](./)
-
 # Wave
 
 ```js

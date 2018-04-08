@@ -1,5 +1,3 @@
-[Oscillation](../)
-
 # Pointing in Direction
 
 

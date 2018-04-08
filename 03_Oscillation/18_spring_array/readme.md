@@ -1,5 +1,3 @@
-[Oscillation](./)
-
 # Spring Array
 
 

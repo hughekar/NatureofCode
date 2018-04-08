@@ -1,5 +1,3 @@
-[Cannon](./)
-
 # Attraction Array with Oscillation
 
 ```js

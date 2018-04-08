@@ -1,5 +1,3 @@
-[Oscillation](./)
-
 # Oscillating Object
 
 ```js

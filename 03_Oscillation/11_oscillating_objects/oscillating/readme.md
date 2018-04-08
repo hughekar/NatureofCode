@@ -1,5 +1,3 @@
-[oscillating objects](./)
-
 # Oscillating Objects - Oscillating
 
 ```js

@@ -1,5 +1,3 @@
-[Oscillation](../)
-
 # Towards the mouse
 
 ```js

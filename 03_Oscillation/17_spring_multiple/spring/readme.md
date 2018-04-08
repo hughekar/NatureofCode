@@ -1,5 +1,3 @@
-[spring multiple](./)
-
 # Spring Multiple - spring.js
 
 

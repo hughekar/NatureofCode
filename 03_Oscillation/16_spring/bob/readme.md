@@ -1,5 +1,3 @@
-[spring](./)
-
 # Spring - Bob
 
 

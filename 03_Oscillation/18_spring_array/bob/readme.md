@@ -1,5 +1,3 @@
-[spring array](./)
-
 # Spring Array - bob.js
 
 

@@ -1,5 +1,3 @@
-[simple harmonic](./)
-
 # Simple Harmonic
 
 ```js

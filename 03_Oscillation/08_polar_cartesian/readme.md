@@ -1,5 +1,3 @@
-[polar cartesian](./)
-
 # Polar Cartesian
 
 ```js

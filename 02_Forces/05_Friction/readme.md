@@ -1,6 +1,6 @@
-[Friction](./)
-
 # Friction
+
+1. [mover](mover/)
 
 ```js
 var mover;

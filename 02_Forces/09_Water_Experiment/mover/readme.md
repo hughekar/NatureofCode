@@ -1,3 +1,6 @@
+# Force Experiment - mover.js
+
+```js
 function mousePressed(){
     reset();
 }
@@ -82,16 +85,4 @@ Mover.prototype.checkEdges = function(){
         this.position.y = (height - this.mass*8);
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
+```

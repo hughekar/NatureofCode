@@ -1,6 +1,3 @@
-[Wind Chime Experiment](./)
-
-
 # Wind Chime Experiment - mover.js
 
 ```js

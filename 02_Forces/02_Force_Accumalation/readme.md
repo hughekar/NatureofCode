@@ -28,5 +28,4 @@ function draw() {
   mover.display();
 }
 ```
-
 <img src ="img/mover.gif"/>

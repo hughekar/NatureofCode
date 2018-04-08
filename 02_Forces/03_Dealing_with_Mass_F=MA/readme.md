@@ -1,9 +1,7 @@
-[Forces](./)
+# Dealing with Mass F- ma
 
-Take at look at mover.js
 1. [mover](mover/)
 
-# Dealing with Mass F- ma
 This sketch we are incorporating mass by adding an instance variable to the mover class.  We will be drawing a circle with a radius of 10 this will show the mass of the object. Within this example movement of the small circles will fall faster then the bigger ones this is because of the mass of the circle small mass the faster it moves.
 
 ```js

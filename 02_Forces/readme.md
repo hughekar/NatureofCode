@@ -1,13 +1,13 @@
 # The Nature of Code - Forces
 What are force in relation to p5.js, force is a vector what does this mean it causes objects with mass to move or to accelerate.  One of the best ways of explaining this would be to look at Newton's three laws of motion
 
-## Newton's First Law:
+### Newton's First Law:
 Objects in motion tend to stay in motion and objects at rest tend to stay at rest unless acted upon by an unbalanced force.
 
-## Newton's Second Law:
+### Newton's Second Law:
 Force equals mass times acceleration (F =ma).
 
-## Newton Third Law:
+### Newton Third Law:
 For every action there is an equal and opposite reaction.
 
 

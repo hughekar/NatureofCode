@@ -1,6 +1,5 @@
-[Forces](./)
-
 # Look at our Mover Class - mover01.js
+
 The mover.js is taking a look at Newton second law, what is happening in the below code first part is taking nthe second law into account we are applying location, velocity and acceleration.  The next step is to add force or wind to the mover.
 
 ```js

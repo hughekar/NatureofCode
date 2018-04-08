@@ -1,8 +1,6 @@
-[Forces](./)
-
 # Gravity on Earth
-With the force of gravity when we calculated relative to an object’s mass what does this mean while the bigger the balls are then stronger the force. So if we scale the force according to the mass then this would be cancelled out when acceleration is divided by mass. 
 
+With the force of gravity when we calculated relative to an object’s mass what does this mean while the bigger the balls are then stronger the force. So if we scale the force according to the mass then this would be cancelled out when acceleration is divided by mass.
 
 ```js
 var Mover = function (m) {

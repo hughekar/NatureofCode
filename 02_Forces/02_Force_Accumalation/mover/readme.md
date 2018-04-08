@@ -1,6 +1,5 @@
-[Force Accumulation](./)
-
 # Force Accumulation - mover.js
+
 The below in relation to our mover has not changed much we are still taking Newton's second Law into account but we have some problems not coding problems but what happens if we want to have multiple forces.
 
 If Force(wind) and Force(gravity) are applied more then once well unfortunately the code we used would not allow for that to happen what do we need to add so we can add a line of code this.acceleration.mult(0) so that force can acceleration for each force this is added to our update loop and reset the acceleratoin to zero.
@@ -36,7 +35,7 @@ var Mover = function () {
             this.velocity.y = this.velocity.y * -1;
         }
     }
-    this.applyForce = function (force) { // new code added 
+    this.applyForce = function (force) { // new code added
         this.acceleration = force;
     }
 }

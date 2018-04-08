@@ -1,9 +1,6 @@
-[Wind Experiment](./)
-
-Take at look at mover.js
-1. [mover](mover/)
-
 # Force Experiment
+
+1. [mover](mover/)
 
 ```js
 var movers=[];

@@ -1,5 +1,3 @@
-[Liquid Experiment](./)
-
 # Liquid Experiment mover.js
 
 ```js

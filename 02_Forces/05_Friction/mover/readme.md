@@ -1,5 +1,3 @@
-[Friction](./)
-
 # Friction
 
 ```js

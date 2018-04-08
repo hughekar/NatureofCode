@@ -1,7 +1,4 @@
-Liquid Experiment](./)
-
 # Liquid Experiment - part 4 - liquid.js
-
 
 ```js
 var Liquid = function (x, y, w, h, c) {

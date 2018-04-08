@@ -1,9 +1,7 @@
-[Gravity on Earth](./)
+# Gravity on Earth
 
-Take at look at mover.js
 1. [mover](mover/)
 
-# Gravity on Earth
 What the previous example shows is unrealistic with the idea of the small circle falling faster, according to Newton's second law the smaller the mass the higher the acceleration.  Is this right well according to does this happen in the real world no it doesn't.  
 
 If you climb to the top of a tall building and drop two different sizes balls which one will hit the ground first.  Well according to Galileo they will both hit the ground at the same time.  
@@ -39,5 +37,4 @@ function draw() {
   }
 }
 ```
-
 <img src ="img/mover.gif"/>

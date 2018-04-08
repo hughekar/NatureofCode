@@ -1,5 +1,3 @@
-[Wind Experiment](./)
-
 # Wind Experiment
 
 ```js

@@ -1,5 +1,3 @@
-[Wind Experiment](./)
-
 # Force Experiment - mover.js
 
 ```js

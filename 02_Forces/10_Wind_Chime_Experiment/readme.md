@@ -1,10 +1,7 @@
-[WindChime Experiment](./)
-
-Take at look at mover.js
-1. [Mover](mover/)
-2. [WindChime](windchime)
-
 # Force Experiment
+
+1. [Mover](mover/)
+2. [Wind Chime](windchime)
 
 ```js
 var windchimes = [];

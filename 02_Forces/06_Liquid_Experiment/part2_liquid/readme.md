@@ -1,11 +1,7 @@
-[Liquid Experiment](./)
-
-Take at look at mover.js and Liquid.js
-1. [mover](mover/)
-2. [liquid](liquid/)
-
 # Liquid Experiment
 
+1. [mover](mover/)
+2. [liquid](liquid/)
 
 ```js
 var ball;

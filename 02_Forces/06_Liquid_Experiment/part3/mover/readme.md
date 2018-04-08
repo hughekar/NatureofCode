@@ -1,5 +1,3 @@
-[Liquid Experiment](./)
-
 # Liquid Experiment - part 3 - liquid.js
 
 ```js

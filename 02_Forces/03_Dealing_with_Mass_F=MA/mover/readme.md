@@ -1,6 +1,5 @@
-[Dealing with Mass F=ma](./)
-
 # Dealing with Mass F- ma
+
 You will see changes to the code the line this.mass = m with this line of code we can apply mass to force  There is also and new part introduced is the (m) this new Mover object with a defined mass. This is also used when it comes to drawing the circle.
 
 ```js

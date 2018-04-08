@@ -1,9 +1,7 @@
-[Forces](./)
+# Force Accumalation
 
-Take at look at mover.js
 1. [mover](mover/)
 
-# Force Accumalation
 The first part the setting up of the mover, and our setup of the canvas and mover has not changed, when it comes to draw we are adding the gravity
 
 ```js

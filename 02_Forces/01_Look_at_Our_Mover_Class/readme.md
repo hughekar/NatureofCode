@@ -1,9 +1,7 @@
-[Forces](./)
+# Look at our Mover Class
 
-Take at look at mover.js
 1. [mover](mover/)
 
-# Look at our Mover Class
 What is happening with the sketch,  First we are setting up the mover which is created in the mover.js sketch. The canvas which we place our mover on it then created the mover.
 
 our next step would be to create the wind we apply that to our force and to make sure our mover doesn't leave the canvas we add the checkEdges.
